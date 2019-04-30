@@ -1,0 +1,11 @@
+{
+  "name": "lrcplayer",
+  "version": "1.0.0",
+  "description": "A .lrc runner that works like a player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anderson Joseph",
+  "license": "ISC"
+}
